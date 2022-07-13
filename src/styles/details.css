@@ -1,0 +1,16 @@
+.details {
+    color: rgb(245, 245, 245);
+    padding: 0 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .details h4 {
+    font-size: 1.25rem;
+    margin-block: 0 0.3rem;
+  }
+  
+  .details p {
+    font-size: 10px;
+    max-width: 100rem;
+  }
+  
